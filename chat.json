@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search field for transaction lookup\", \"checked\": true}, {\"feature\": \"Customizable dashboard with favorite transactions\", \"checked\": false}, {\"feature\": \"Real-time transaction alert notifications\", \"checked\": true}, {\"feature\": \"Interactive transaction history graph\", \"checked\": false}, {\"feature\": \"Dark and light mode toggle\", \"checked\": true}, {\"feature\": \"Contact form integration in the Contact section\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 94, \"time_taken\": \"0:00:05.031408\"}",
+        "message_id": "guest24072024113710",
+        "timestamp": "24072024113717",
+        "component_file_name": "purple_background_cta_component_1721820931",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a sidebar with navlinks for home, about, and contact.",
+        "message_id": "guest24072024113710",
+        "timestamp": "24072024113712",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with the navlinks home, about and contact",
         "message_id": "guest24072024113710",
